@@ -2,7 +2,7 @@ Asithandile Nyirana – Personal Portfolio Website
 Welcome to my personal portfolio website! This responsive web application showcases my skills, projects, and background as a BSc Information Technology graduate with strong programming knowledge and a passion for design and development.
 
 🔗 Live Demo
-👉 nyirana.netlify.app
+👉 [nyirana.netlify.app](https://nyirana.netlify.app/)
 
 
 📌 Features
